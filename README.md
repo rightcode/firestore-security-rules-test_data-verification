@@ -12,7 +12,18 @@ npm install
 ```bash
 npm run emu:start:firestore
 ```
+
 ### テストの実施
 ```bash
 npm test-watch
 ```
+
+## Tags
+### test-environment-only
+テスト環境のみ
+
+### test-only
+テスト付き
+
+### test-and-rules
+テストとルール付き
