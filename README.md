@@ -1,3 +1,5 @@
+![CI](https://github.com/rightcode/firestore-security-rules-test_data-verification/workflows/CI/badge.svg)
+
 # テスト駆動で学ぶFirestoreセキュリティルール 【データ検証編】
  
 ## パッケージインストール
